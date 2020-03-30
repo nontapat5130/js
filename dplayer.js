@@ -3098,7 +3098,7 @@
             '>\n        <div class="dplayer-danmaku-item dplayer-danmaku-item--demo"></div>\n    </div>\n    <div class="dplayer-subtitle"></div>\n    <div class="dplayer-bezel">\n        <span class="dplayer-bezel-icon"></span>\n        '),
           r.danmaku &&
             ((a += '\n        <span class="dplayer-danloading">'),
-            (a += s(l("HelGoAnime"))),
+            (a += s(l("HELGO ANIME"))),
             (a += "</span>\n        ")),
           (a += '\n        <span class="diplayer-loading-icon">'),
           (a += c.loading),
