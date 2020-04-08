@@ -3736,13 +3736,13 @@ a {
           transform: translate(0, -50%);
   width: 14px;
   height: 14px;
-  background: url(https://uchitama.com/assets/img/common/icon_arrow_next.png) no-repeat center center;
+  background: url(https://lh3.googleusercontent.com/zAy1J7is-Qo32B9qjXMD4QxYC_uoTXxpFaXRVhPcSUkuWwf_GBfDhLmWy5lTfgFfx8ydY_LkMdF5x1459qdAkOD8liXl4i1MMcku1WRPu4nQkstdCWmgr9Jw_iPD3DFXaXIaMe0My8vsykFXBUlHN6KHwjJsLlALRxsk_AM-WA51OksUKOVvQUV1s8R_RSKw6ap3jjKfpbGy9y3wH8-dxED7Rqv4GgPeceYztHWaCgaNwyfcSxXKD4qB_gWeQaU4Pzi9JvyxMIaNiKHT-GCDK6Nj3L3mYoiaRylJT06aNLl_4i8Wbz7PeuAPZSzU1mRBDXJCYxudToHbtchcfSKl-87dOdFcYCv22qdSs3WuuI_wQDwfqJ6vx_p-S4uEWcdNxNLPvj6l7RD6QA37ckb6J3CnBt1562WB45ZO0rioi8caYjtHShN37w1GmtaUGz9G_JP4nYF8tx0atUa23mYlk_t34Y3ab7TKJV3RttgojaH8vT_bOqUCjqcBVki3u3D7FQiuO4fLDSOyTaQUWUwBpYYFy6eGdw_Ts6eHJj-F0b1Jvvk4aMzVQiFS9rLGVjsr06se5hcSBv3D7wVwFTVqcZFY10PAzjqktMbmdVicOQAsLXxT8eJOvNhq7EXnbyVFDNunmcZuNKP0GlowWnlbHXSjyg_Nkn3PuVq9lHpHHJWTD-M1fImC5xTYGXtzJlErChqjFg=w1683-h880-ft) no-repeat center center;
   background-size: contain;
 }
 
 .c-footer__logo {
   position: absolute;
-  width: 144px;
+  width: 300px;
 }
 
 .c-footer__caution, .c-footer__copy {
@@ -4565,7 +4565,7 @@ a {
     width: 100%;
     height: auto;
     padding-top: 61.92%;
-    background-image: url(https://uchitama.com/assets/img/movie/bg_movie_sp.png);
+    background-image: url(https://lh3.googleusercontent.com/AfJDG0VyjeG_rK7mDKxmsKvAC_d1gTGnYomO8_dO65Ifao_V3JW0JK0O85IhHSuEfkpMn0pUWF_s64HrkVmncB0vuSw6tF5XutCrXkw-lOklE9-VU4z6s-a9xyXVFH1aGWYUooab3-jDiNMmsH6SBjr1slT0APP2mQ97dfFfFlBbwLfBtcQCX-qGPcgSEIGoVs53fSa-MhbCE9Y-l2XIhb5demjl-Y30tkUYg5iwMtBnsLwsSMstSuoKiDFU8cOrY-8dg9Cm9jOzDxEDnOBs37St9BonzlI4hhbwbc1ITGgMmF5uL50MjDRzmIAZK4mXbMDKx-gyNRFnQSpKt0G-b8pxwDJF5XLzMIzNOYCn3Zr8Tl1Glflq59yiJoXRx14Ska6xOY5R4e1M7QHIQNNi81wbyHuB_KVvQQ2Tgq0ZNOo584kEKDqKkU--FNZam3SxgD_Ne8FaVP1RSaf24DAkwjj0A6T4dmxAcvO0WkE2W8nyNAjRM6OCpuSslQuLlAEC2oPS6tSU3_6EYjDMDQzGzIUOQEW_L-8SKa6DNG325gGWE_TY1Rus6WbzhygepBoYfNe1BeWrWTY5jVULVj6fCv1gHyVx9azmCg7ZSP3H2JRv2EgHKeWwaeoiPoahkzjn8T8mthh-H5BZUl1_fwb-zSv8AwofYQUgwgajxieSHRPgsQFqNPczZ8Lw3LpTPC4g5Yhd7Q=w1683-h929-ft);
   }
   .l-movie-modal__deco-img--1 {
     top: -5px;
