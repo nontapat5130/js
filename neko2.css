@@ -2887,7 +2887,7 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #fff;
+  background-color: #000;
 }
 
 .l-movie-modal__close {
@@ -2912,7 +2912,7 @@ a {
   position: relative;
   width: 920px;
   height: 540px;
-  background: url(https://uchitama.com/assets/img/movie/bg_movie.png) no-repeat center center;
+  background: url() no-repeat center center;
   background-size: contain;
 }
 
@@ -4553,7 +4553,7 @@ a {
   .l-movie-modal__movie-wrap {
     width: 100%;
     height: auto;
-    padding-top: 61.92%;
+    padding-top: 62.50%;
     background-image: url();
   }
   .l-movie-modal__deco-img--1 {
