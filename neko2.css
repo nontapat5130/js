@@ -2848,18 +2848,7 @@ a {
   z-index: 2;
 }
 
-.l-container::before {
-  left: 0;
-  border-width: 67px 130px 0 0;
-  border-style: solid;
-  border-color: #f7bcb0 transparent transparent transparent;
-}
-
-.l-container::after {
-  right: 0;
-  border-width: 62px 0 0 123px;
-  border-style: solid;
-  border-color: #9de0dc transparent transparent transparent;
+.
 }
 
 .l-main {
@@ -4654,15 +4643,15 @@ a {
   }
   .c-nav__main::before {
     left: 0;
-    border-width: 34px 65px 0 0;
+    border-width: 0px 0px 0 0;
     border-style: solid;
-    border-color: #f7bcb0 transparent transparent transparent;
+    border-color: #f54242 transparent transparent transparent;
   }
   .c-nav__main::after {
     right: 0;
-    border-width: 31px 0 0 61px;
+    border-width: 0px 0 0 0px;
     border-style: solid;
-    border-color: #9de0dc transparent transparent transparent;
+    border-color: #f54242 transparent transparent transparent;
   }
   .c-nav__menu-title, .c-nav__share-title {
     margin-bottom: 15px;
