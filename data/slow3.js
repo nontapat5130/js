@@ -38,7 +38,7 @@
 				Common.trace("Page -> id : " + _id);
 
 				// ้ธๆใ—ใๅ•็”ปใซๅทฎใ—ๆฟใ
-				var _src = '<iframe width="820" height="460" src="https://www.youtube.com/embed/' + _id + '?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>';
+				var _src = '<iframe width="820" height="460" src="https://' + _id + '?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>';
 				$('#j-player').html('').html(_src);
 
 				// ในใฏใญใผใซใ’ใใผใธไธ้จใซๆปใ
